@@ -1,6 +1,7 @@
 # Wine-Quality-Prediction_ML
 
 Played significant role in critical projects:
+
 Objective: Developed a machine learning model to predict the quality
 of red wine, enhancing the wine production process.
 
